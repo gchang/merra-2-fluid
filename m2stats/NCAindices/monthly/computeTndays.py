@@ -195,4 +195,4 @@ tn10p_var.long_name='percentage of time when daily min 2-m temperature < 10th pe
 
 
 ncfile.close()
-sys.exit(1)
+sys.exit(0)

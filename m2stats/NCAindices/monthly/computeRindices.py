@@ -234,4 +234,4 @@ cdd_var.long_name='Consecutive Dry Days (maximum number of consecutive days when
 
 
 ncfile.close()
-sys.exit(1)
+sys.exit(0)

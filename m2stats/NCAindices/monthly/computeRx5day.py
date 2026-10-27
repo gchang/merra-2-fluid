@@ -92,4 +92,4 @@ rx5daycount_var.units = 'count'
 rx5daycount_var.long_name='count of five-day heavy precipitation periods >= 50 mm'
 
 
-sys.exit(1)
+sys.exit(0)
